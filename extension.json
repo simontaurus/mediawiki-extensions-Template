@@ -5,7 +5,7 @@
     "author":[
         "[https://github.com/simontaurus Simon Stier]"
     ],
-    "url":"https://github.com/simontaurus/Template",
+    "url":"https://github.com/simontaurus/mediawiki-extensions-Template",
     "descriptionmsg":"template-desc",
     "namemsg":"template-name",
     "license-name":"AGPL-3.0",
@@ -32,7 +32,7 @@
         }
     },
     "AutoloadClasses":{
-        "WellplateEditor":"includes/Template.php"
+        "Template":"includes/Template.php"
     },
     "Hooks":{
         "BeforePageDisplay":"Template::onBeforePageDisplay"
