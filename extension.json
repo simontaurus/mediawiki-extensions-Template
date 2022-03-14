@@ -8,7 +8,7 @@
     "url":"https://github.com/simontaurus/mediawiki-extensions-Template",
     "descriptionmsg":"template-desc",
     "namemsg":"template-name",
-    "license-name":"AGPL-3.0",
+    "license-name":"AGPL-3.0-or-later",
     "type":"editor",
     "requires":{
         "MediaWiki":">= 1.31"
